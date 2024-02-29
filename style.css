@@ -1,0 +1,81 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+table{
+  padding: 8px;
+background: url("blue.jpg");
+  background-repeat: no-repeat;
+  background-position-y: 0px;
+  background-size: 1400px;
+  width: 360px;
+  background-position-x: 0px;
+  height: 400px;
+   margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border-style: solid ;
+  border-color: lightblue;
+  border-width: 6px;
+ 
+}
+
+button{
+  background-color: red;
+   color:white;
+  width: 60px;
+    font-size: 20px;
+  text-align: center;
+  user-select: none;
+  opacity: 0.75;
+  height: 70px;
+  border-radius: 5px;
+
+}
+
+input[type="text"]{
+  width: 317px;
+  height:100px;
+  text-align: right;
+  background-color: #ffffff;
+  color:#000000;
+  border-bottom-color: black;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  border-right-color: black;
+ font-family: 'Helvitica', Monospace;
+}
+#he{
+  width: 317px;
+}
+
+body{background-color: black;}
+
+h1{color:white;}
+
+#bNum{background-color: darksalmon;}
+
+#res {background-color: darkgray;
+    width: 123px; }
+
+#sim{background-color: darkgreen;}
+
+#he{background-color:darkgoldenrod ;}
+
+   #trig{background-color: darkviolet; }
+
+button:hover{filter:brightness(50%)}
+
+#jasmit{font-size: 15px;
+       font-family: "Lucida Console", "Courier New", monospace;}
+
+#screen{
+  height:150px;
+}
+
+h1{font-family: "Lucida Console", "Courier New", monospace;}
+  #lol{background-color: darkorange;}
